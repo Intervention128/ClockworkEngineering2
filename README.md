@@ -1,2 +1,2 @@
 # ClockworkEngineering2
-Issue Tracker for the upcoming continuation of Clockwork Engineering.
+Issue tracker for the upcoming continuation of Clockwork Engineering.
